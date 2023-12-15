@@ -1,5 +1,5 @@
 # public-key-messenger
-messaging system that uses public key encryption
+messaging system that uses public key encryption (RSA)
 
 - This is a distributed system where keys are stored on a server 
 - This messaging system implements the RSA encryption and decryption algorithm to send secure messages to other users.
